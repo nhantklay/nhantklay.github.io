@@ -5,7 +5,7 @@ const message = document.getElementById("message");
 const messageTitle = document.getElementById("messageTitle");
 const messageText = document.getElementById("messageText");
 
-const title = "Thông báo khẩn cấp!";
+const title = "gâu gấu gẩu gấu";
 const content =
     "gâu gâu, gấu gậu gậu gầu gâu gậu, gâu gẩu, " +
     "gậu gậu gầu gầu gấu gầu gâu gâu gẫu gấu gâu." +
