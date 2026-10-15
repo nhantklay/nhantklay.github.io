@@ -7,12 +7,10 @@ const messageText = document.getElementById("messageText");
 
 const title = "Thông báo khẩn cấp!";
 const content =
-    "Hôm nay, các cậu được quyền xinh đẹp, vui vẻ, " +
-    "nhận thật nhiều lời chúc và tạm quên mọi deadline. " +
-    "Còn bài tập ngày mai... thì chúng ta sẽ tính sau :)) " +
-    "Đùa thôi! Chúc các cậu luôn tự tin, hạnh phúc, " +
-    "được yêu thương và luôn tỏa sáng theo cách riêng của mình. " +
-    "Chúc mừng ngày Phụ nữ Việt Nam 20/10!";
+    "gâu gâu, gấu gậu gậu gầu gâu gậu, gâu gẩu, " +
+    "gậu gậu gầu gầu gấu gầu gâu gâu gẫu gấu gâu. " +
+    "gầu gầu gậu gầu gâu gấu gâu gẫu gấu gâu " +
+    "gấu gầu gậu gầu gẫu gậu gâu";
 
 revealBtn.addEventListener("click", () => {
     intro.hidden = true;
