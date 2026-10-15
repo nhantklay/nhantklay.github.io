@@ -8,7 +8,7 @@ const messageText = document.getElementById("messageText");
 const title = "Thông báo khẩn cấp!";
 const content =
     "gâu gâu, gấu gậu gậu gầu gâu gậu, gâu gẩu, " +
-    "gậu gậu gầu gầu gấu gầu gâu gâu gẫu gấu gâu. " +
+    "gậu gậu gầu gầu gấu gầu gâu gâu gẫu gấu gâu." +
     "gầu gầu gậu gầu gâu gấu gâu gẫu gấu gâu " +
     "gấu gầu gậu gầu gẫu gậu gâu";
 
